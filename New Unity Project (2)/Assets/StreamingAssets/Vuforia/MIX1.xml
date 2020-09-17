@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="player" size="10.000000 13.133802" />
+    <ImageTarget name="level1" size="10.000000 12.677966" />
+    <ImageTarget name="screenshot_vuforia" size="10.000000 21.642511" />
+  </Tracking>
+</QCARConfig>
