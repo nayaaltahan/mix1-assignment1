@@ -15,11 +15,13 @@
         <e p="Scripts" t="Include">
           <e p="Ball.cs" t="Include" />
           <e p="Bricks.cs" t="Include" />
+          <e p="BrickScript.cs" t="Include" />
           <e p="C01.cs" t="Include" />
           <e p="Door.cs" t="Include" />
           <e p="DoorTrigger.cs" t="Include" />
           <e p="GravityTracker.cs" t="Include" />
           <e p="ResetSpherePosition.cs" t="Include" />
+          <e p="SphereMovement.cs" t="Include" />
         </e>
         <e p="StreamingAssets" t="Include">
           <e p="Vuforia" t="Include">
