@@ -20,8 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd0c6b3a-5ba9-4aa4-bedb-e3f09bb8e6dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/New Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/New Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ResetSpherePosition.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ResetSpherePosition.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project (2)/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project (2)/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project (2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project (2)/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/03.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/03.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +40,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/GravityTracker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ResetSpherePosition.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1hdf8fe5ny2lw15MeWXIYOs4L40" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -79,6 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600345739581</updated>
       <workItem from="1600345757313" duration="151000" />
+      <workItem from="1600445643992" duration="1169000" />
     </task>
     <servers />
   </component>
@@ -97,8 +107,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
