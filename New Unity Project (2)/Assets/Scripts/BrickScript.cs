@@ -5,18 +5,19 @@ using UnityEngine;
 
 public class BrickScript : MonoBehaviour
 {
-    private GameObject _gameObject;
+    private Transform tf;
 
-    private Material _material;
     // Start is called before the first frame update
     void Start()
     {
-        _gameObject = GetComponent<GameObject>();
-        _material = GetComponent<Material>();
+        tf = gameObject.GetComponent<Transform>();
     }
 
     public void OnCollisionEnter(Collision hit)
     {
-        gameObject.SetActive(false);
+        if (hit.gameObject.name == "Sphere")
+        {
+            GameObject.Destroy(gameObject);
+        }
     }
 }
