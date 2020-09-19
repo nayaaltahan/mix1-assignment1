@@ -15,7 +15,7 @@ public class BrickScript : MonoBehaviour
 
     public void OnCollisionEnter(Collision hit)
     {
-        if (hit.gameObject.name == "Sphere")
+        if (hit.gameObject.CompareTag("Ball"))
         {
             GameObject.Destroy(gameObject);
         }
