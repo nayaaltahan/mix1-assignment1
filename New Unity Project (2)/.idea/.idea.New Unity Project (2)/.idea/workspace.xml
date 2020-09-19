@@ -20,15 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd0c6b3a-5ba9-4aa4-bedb-e3f09bb8e6dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Normal surface.physicMaterial" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Normal surface.physicMaterial.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project (2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project (2)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/01.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/01.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/03.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/03.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BrickScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BrickScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GravityTracker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GravityTracker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SphereMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SphereMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LosingScript.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LosingScript.cs.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +33,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrickScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LosingScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -48,6 +42,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/SphereMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BrickScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GravityTracker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LosingScript.cs" />
       </list>
     </option>
   </component>
@@ -104,7 +99,7 @@
       <workItem from="1600445643992" duration="1827000" />
       <workItem from="1600448147637" duration="3770000" />
       <workItem from="1600518553027" duration="2544000" />
-      <workItem from="1600526772359" duration="3013000" />
+      <workItem from="1600526772359" duration="3733000" />
     </task>
     <servers />
   </component>
