@@ -31,7 +31,8 @@ public class GravityTracker : MonoBehaviour
     
     public void OnCollisionEnter(Collision hit)
     {
-        if (hit.gameObject.CompareTag("Player"))
+        if (hit.gameObject.CompareTag("Player") 
+            && _constantForce.force != Vector3.forward)
         {
             rb.velocity = Vector3.forward;
             _constantForce.force = Vector3.forward;

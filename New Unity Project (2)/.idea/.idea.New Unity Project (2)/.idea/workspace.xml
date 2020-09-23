@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd0c6b3a-5ba9-4aa4-bedb-e3f09bb8e6dc" name="Default Changelist" comment="">
-<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/Assets/Scripts/LosingScript.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Assets/Scripts/LosingScript.cs.meta" afterDir="false" />
-=======
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Assets/Materials/New Material 2.mat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Assets/Materials/New Material 2.mat.meta" afterDir="false" />
@@ -47,8 +45,6 @@
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Brick.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Brick.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/03.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/03.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GravityTracker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GravityTracker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LosingScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LosingScript.cs" afterDir="false" />
->>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,14 +64,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ResetSpherePosition.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SphereMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BrickScript.cs" />
-<<<<<<< Updated upstream
-=======
         <option value="$PROJECT_DIR$/Assets/Scripts/LosingScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RedWall.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EndGame.cs" />
->>>>>>> Stashed changes
         <option value="$PROJECT_DIR$/Assets/Scripts/GravityTracker.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LosingScript.cs" />
       </list>
     </option>
   </component>
@@ -132,14 +124,11 @@
       <workItem from="1600445643992" duration="1827000" />
       <workItem from="1600448147637" duration="3770000" />
       <workItem from="1600518553027" duration="2544000" />
-<<<<<<< Updated upstream
       <workItem from="1600526772359" duration="3733000" />
-=======
       <workItem from="1600526772359" duration="6479000" />
       <workItem from="1600680203837" duration="268000" />
       <workItem from="1600876981415" duration="688000" />
       <workItem from="1600878807860" duration="1037000" />
->>>>>>> Stashed changes
     </task>
     <servers />
   </component>
