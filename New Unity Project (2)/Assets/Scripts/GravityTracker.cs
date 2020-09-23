@@ -23,11 +23,17 @@ public class GravityTracker : MonoBehaviour
     {
         rb.isKinematic = false;
     }
+
+    void FixedUpdate()
+    {
+        rb.velocity = Vector3.Normalize(rb.velocity) * 40;
+    }
     
     public void OnCollisionEnter(Collision hit)
     {
         if (hit.gameObject.CompareTag("Player"))
         {
+            rb.velocity = Vector3.forward;
             _constantForce.force = Vector3.forward;
             DisableKinematic();
         }

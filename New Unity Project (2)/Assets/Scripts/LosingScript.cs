@@ -14,7 +14,8 @@ public class NewBehaviourScript : MonoBehaviour
     {
         if (hit.gameObject.CompareTag("Ball"))
         {
-            
+            GameObject.Destroy(gameObject);
+            EndGame.Text.SetActive(true);
         }
     }
 }
